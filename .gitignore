@@ -1,0 +1,143 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+.m2/
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+*.patched
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+*.launch
+.c9/
+*.swp
+*~.nib
+*.jdi
+
+# IDE - VSCode
+.vscode/
+.vscode-test/
+*.code-workspace
+
+# IDE - NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# IDE - Other
+*.sublime-project
+*.sublime-workspace
+.tern-port
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.exe
+
+# Spring Boot
+.spring-boot-build-cache/
+spring-boot-app/
+
+# Gradle (if migrated)
+.gradle
+gradle/
+gradlew
+gradlew.bat
+
+# SonarQube
+.sonarqube/
+.sonar/
+
+# Logs
+logs/
+*.log
+*.log.*
+log/
+
+# H2 Database
+*.mv.db
+*.trace.db
+h2/
+testdb/
+
+# Application specific
+application-local.properties
+application-dev.properties
+application-prod.properties
+config/
+.env
+.env.local
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Runtime data
+.java-version
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# JetBrains
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Visual Studio Code
+.vscode/
+launch.json
+settings.json
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+*.swo
+
+# Node (if frontend included)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python (if scripts included)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# OS temporary
+.AppleDouble
+.LSOverride
+*.stackdump
+
